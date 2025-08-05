@@ -32,7 +32,9 @@ Using `pandas`, `jinja2`, and standard Python libraries, the script:
 - `onboarding_automation.py`: Main script
 - `new_hires.csv`: Sample new hire input
 - `onboarding_output/`: Sample folders & email files
-- `screenshots/`: Optional screenshots of folder output
+- `screenshots/`: Screenshots of folder output
+
+![Folder Structure](screenshots/sample_output.png)
 
 ---
 
